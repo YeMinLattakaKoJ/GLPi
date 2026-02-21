@@ -27,7 +27,7 @@ WEB_USER="www-data"        # 'www-data' for Debian/Ubuntu, 'apache' for CentOS/R
 WEB_GROUP="www-data"
 
 # Download the script (or clone the repo)
-wget [https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/YOUR-REPO-NAME/main/glpi_upgrade.sh](https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/YOUR-REPO-NAME/main/glpi_upgrade.sh)
+wget [https://github.com/YeMinLattakaKoJ/GLPi/blob/main/glpi_upgrade_ubuntu.sh](https://github.com/YeMinLattakaKoJ/GLPi/blob/main/glpi_upgrade_ubuntu.sh)
 
 # Make the script executable
 chmod +x glpi_upgrade.sh
